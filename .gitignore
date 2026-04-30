@@ -1,6 +1,3 @@
-# Data files (provided by Nordeus, not included in repo)
-data/
-
 # Python
 __pycache__/
 *.py[cod]
